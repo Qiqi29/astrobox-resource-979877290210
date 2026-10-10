@@ -34,6 +34,16 @@
       "version": "1.1.0",
       "file_name": "downloads/辉光管_米环11_1.1.0.bin",
       "versionCode": 65792
+    },
+    "xmb10nfc": {
+      "version": "1.1.0",
+      "file_name": "downloads/辉光管_米环10_1.1.0-xmb10nfc.bin",
+      "versionCode": 65792
+    },
+    "xmb11nfc": {
+      "version": "1.1.0",
+      "file_name": "downloads/辉光管_米环11_1.1.0-xmb11nfc.bin",
+      "versionCode": 65792
     }
   },
   "ext": {}
