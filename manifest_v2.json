@@ -1,0 +1,40 @@
+{
+  "item": {
+    "id": "979877290210",
+    "restype": "watchface",
+    "name": "辉光管",
+    "description": "“让古老的技术再次发光”",
+    "preview": [
+      "media/宣传图 900x1200.png",
+      "media/宣传图2 900x1200.png"
+    ],
+    "icon": "media/图标 300w.png",
+    "cover": "media/封面图 900x600.png",
+    "author": [
+      {
+        "name": "theqiqi",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "查看我的更多表盘",
+      "url": "https://wzyp.cn/shop/MO75RD9U",
+      "icon": "shopping-cart"
+    }
+  ],
+  "downloads": {
+    "xmb10": {
+      "version": "1.1.0",
+      "file_name": "downloads/辉光管_米环10_1.1.0.bin",
+      "versionCode": 65792
+    },
+    "xmb11": {
+      "version": "1.1.0",
+      "file_name": "downloads/辉光管_米环11_1.1.0.bin",
+      "versionCode": 65792
+    }
+  },
+  "ext": {}
+}
